@@ -1,0 +1,5 @@
+1- Import data using get data of Excel.
+2-Select The Sheet of Data.
+3-Click The Button of Transform The Data.
+4-Calculate the Average And Repalce The Null Value With Average.
+5-Apply The Grahp
